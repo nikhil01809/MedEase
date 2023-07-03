@@ -1,2 +1,2 @@
 # MedEase
-There are two branches see Final code branch for final code
+There are two branches see final-code branch for final code
